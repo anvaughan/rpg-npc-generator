@@ -1,0 +1,52 @@
+---
+picks:
+- race: 1
+- gender: 1
+- appearance: 3
+- high ability: 2
+- talents: 1
+- mannerisms: 2
+- traits: 1
+- ideals: 1
+- bonds: 1
+- flaws: 1
+
+attributes:
+  race:
+  - human: 1
+  - elf: 1
+  - gnome: 1
+  gender:
+  - male: 1
+  - female: 1
+  appearance:
+  - broken nose: 1
+  - perfect teeth: 1
+  - fat neck: 1
+  - big eyes: 1
+  high ability:
+  - strength: 1
+  - dexterity: 1
+  - constitution: 1
+  - intelligence: 1
+  - wisdom: 1
+  - charisma: 1
+  talents:
+  - plays violin: 1
+  - fast runner: 1
+  mannerisms:
+  - eye twitches: 1
+  - hands shaking: 1
+  - will not make eye contact: 1
+  traits:
+  - rude: 1
+  - generous: 1
+  ideals:
+  - family comes first: 1
+  - breakfast is the most important meal of the day: 1
+  bonds:
+  - family: 1
+  - in-debted: 1
+  flaws:
+  - phobia: 1
+  - has a powerful enemy: 1
